@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\misae\\Desktop\\Universidad\\Grafica - Visual\\II Parcial\\menu\\menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC0107A-4E18-47B1-A337-0D3BBF6E5AB3}|menu.vcxproj|C:\\Users\\misae\\Desktop\\Universidad\\Grafica - Visual\\II Parcial\\menu\\menu\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DC0107A-4E18-47B1-A337-0D3BBF6E5AB3}|menu.vcxproj|solutionrelative:menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu.cpp",
+              "DocumentMoniker": "C:\\Users\\misae\\Desktop\\Universidad\\Grafica - Visual\\II Parcial\\menu\\menu\\menu.cpp",
+              "RelativeDocumentMoniker": "menu.cpp",
+              "ToolTip": "C:\\Users\\misae\\Desktop\\Universidad\\Grafica - Visual\\II Parcial\\menu\\menu\\menu.cpp",
+              "RelativeToolTip": "menu.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAADAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T05:32:40.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
