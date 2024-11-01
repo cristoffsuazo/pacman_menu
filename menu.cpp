@@ -20,7 +20,7 @@ void display() {
     if (gameStarted) {
         // Mostrar pantalla del juego
         glColor3f(1.0, 1.0, 0.0);  // Color amarillo como Pac-Man
-        renderBitmapString(-0.2f, 0.0f, GLUT_BITMAP_HELVETICA_18, "Juego de Pacman");
+        renderBitmapString(-0.2f, 0.0f, GLUT_BITMAP_HELVETICA_18, "Juego Pacman");
     }
     else {
         // Mostrar menú principal
