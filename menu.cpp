@@ -36,7 +36,7 @@ void display() {
     glFlush();
 }
 
-// Función para manejar las opciones seleccionadas
+// Función para manejar la opciones seleccionadas
 void selectOption(int option) {
     switch (option) {
     case 1:
